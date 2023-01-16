@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item id="1">
+        <img>img/potato.jpg</img>
+        <name>Картофель по-деревенски</name>
+        <discription>Тот самый картофель по-деревенски, который вы только что попробовали и решили что он вкуснее обычной картошки фри</discription>
+    </item>
+    <item id="2">
+        <img>img/borsch.jpg</img>
+        <name>Борщ</name>
+        <discription>Тот самый бабушкин борщ с чесночком и сметанкой</discription>
+    </item>
+    <item id="3">
+        <img>img/pepperoni.jpg</img>
+        <name>Пепперони</name>
+        <discription>Тот самый набор треугольных кусочков из круглой пиццы в квадратной коробке</discription>
+    </item>
+    <item id="4">
+        <img>img/cesar.jpg</img>
+        <name>Салат Цезарь</name>
+        <discription>Тот самый салат который все время выбирают те, кто не сильно хочет кушать</discription>
+    </item>
+    <item id="5">
+        <img>img/hacopuri.jpg</img>
+        <name>Хачапури</name>
+        <discription>Тот самый шедевр повара созданный из теста, яйца и сыра</discription>
+    </item>
+    <item id="6">
+        <img>img/orange_juice.jpg</img>
+        <name>Апельсиновый сок</name>
+        <discription>Тот самый освежающий и бодрящий напиток который всегда выбирают люди во время полета на самолете</discription>
+    </item>
+    <item id="7">
+        <img>img/dorado_na_uglyah.jpg</img>
+        <name>Дорадо на углях</name>
+        <discription>Тот самый момент когда перед вами просто рыба но называется она почти как золотая мифическая страна</discription>
+    </item>
+    <item id="8">
+        <img>img/sandwitch.jpg</img>
+        <name>Сэндвич</name>
+        <discription>Тот самый сэндвич который кажется самым вкусным в этом меню</discription>
+    </item>
+    <item id="9">
+        <img>img/cheescake.jpg</img>
+        <name>Чизкейк</name>
+        <discription>чизкейк без описания</discription>
+    </item>
+    <item id="10">
+        <img>img/potato.jpg</img>
+        <name>Lorem Ipsum</name>
+        <discription>Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов.</discription>
+    </item>
+
+</items>
